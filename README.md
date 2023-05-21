@@ -35,7 +35,7 @@ These KPIs were evaluated and measured by their respective values from previous 
 4. **Rating System Implementation**: After examining the KPIs, I devised a rating system for each e-commerce website based on its performance across these four metrics. The system aimed to provide a balanced view of performance, taking into account all selected KPIs in order to quantify the success - Growth rate in revenue (40%), Growth rate in number of sales (20%), Customer acquistion rate (20%). 
 Each website was rated 1-10 based on those metrics in order to identify the properties of a "Successful" site for improvement and success prediction.
 <p align="center">
-  <img src="images/average%sales%20per%20industry.jpg" alt="average" width="450" height="250"/>
+  <img src="images/average%20sales%20per%20industry.jpg" alt="average" width="450" height="250"/>
 </p>
 
 <p align="center">
