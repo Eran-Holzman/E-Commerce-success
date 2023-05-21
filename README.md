@@ -44,6 +44,6 @@ Each website was rated 1-10 based on those metrics in order to identify the prop
 
 5. **Data Visualization**: Alongside the metric-based analysis, I created visual representations of the data and findings using Tableau and various Python libraries (like matplotlib, seaborn, and plotly). These visualizations designed to clearly communicate trends, patterns, and standout findings.
 
-6. **Result Interpretation and Conclusion**: Based on the ratings, the visuallisation I drew conclusions about what factors most strongly influence the success of an e-commerce website. These findings have been translated into a set of actionable recommendations that could be used to enhance website performance and increase e-commerce success.
+6. **Result Interpretation and Conclusion**: Based on the ratings and the visuallisation, I drew conclusions about what factors most strongly influence the success of an e-commerce website. These findings have been translated into a set of actionable recommendations that could be used to enhance website performance and increase e-commerce success.
 
 
