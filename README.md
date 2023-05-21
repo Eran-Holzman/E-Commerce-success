@@ -16,7 +16,8 @@ The analysis for the project was conducted in several stages:
 
 1. **Data Cleaning and Preprocessing**: The raw data was cleaned and preprocessed using python and Excel. This included handling missing values, removing outliers, capitalize fixes, change variable type in order to improve efficiency.
 
-2. **Exploratory Data Analysis (EDA)**: Conducted an exploratory analysis to understand the patterns and trends in the data. This included visualizing the distribution of different metrics, exploring correlations between variables, and identifying standout observations or trends that could inform further analysis.
+2. **Exploratory Data Analysis (EDA)**: Conducted an exploratory analysis to understand the patterns and trends in the data. This included visualizing the distribution of different metrics, exploring correlations between variables, and identifying standout observations or trends.
+
 
 3. **Metric-Based Analysis**: Based on the insights from the Exploratory Data Analysis (EDA), I performed a detailed analysis focusing on three key performance indicators (KPIs):
    - Growth rate in revenue
@@ -25,8 +26,10 @@ The analysis for the project was conducted in several stages:
 These KPIs were evaluated and measured by their respective values from previous periods, both quarterly and annually.
 
 4. **Rating System Implementation**: After examining the KPIs, I devised a rating system for each e-commerce website based on its performance across these four metrics. The system aimed to provide a balanced view of performance, taking into account all selected KPIs in order to quantify the success - Growth rate in revenue (40%), Growth rate in number of sales (20%), Customer acquistion rate (20%). 
-Each website was rated 1-10 based on those metrics in order to identify the properties of a "Successful" site for future prediction and improvement.
+Each website was rated 1-10 based on those metrics in order to identify the properties of a "Successful" site for improvement and success prediction.
 
-5. **Result Interpretation and Conclusion**: Based on the ratings and the analysis, I drew conclusions about what factors most strongly influence the success of an e-commerce website. I have translated these findings into a set of company actionable recommendations that could be used to enhance website performance and increase e-commerce success.
+5. **Data Visualization**: Alongside the metric-based analysis, I created visual representations of the data and findings using Tableau and various Python libraries (like matplotlib, seaborn, and plotly). These visualizations designed to clearly communicate trends, patterns, and standout findings.
+
+6. **Result Interpretation and Conclusion**: Based on the ratings, the visuallisation I drew conclusions about what factors most strongly influence the success of an e-commerce website. These findings have been translated into a set of actionable recommendations that could be used to enhance website performance and increase e-commerce success.
 
 
