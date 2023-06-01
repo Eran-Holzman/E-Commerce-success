@@ -184,10 +184,10 @@ plt.show()
 
 # Pie chart of type distribution with smaller size and aspect ratio
 type_counts = merged_df['type'].value_counts()
-plt.figure(figsize=(6, 4))  # Decrease the figure size here
+plt.figure(figsize=(6, 4))  
 plt.pie(type_counts.values, labels=type_counts.index, autopct='%1.1f%%')
 plt.title('Distribution of Types')
-plt.gca().set_aspect('equal')  # Set aspect ratio to make it more circular
+plt.gca().set_aspect('equal')  
 plt.show()
 
 
